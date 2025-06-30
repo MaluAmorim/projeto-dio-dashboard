@@ -9,3 +9,7 @@ Além disso é necessário ter separado e organizado a bases de onde seram retir
 ![image](https://github.com/user-attachments/assets/dfcf0554-5816-47b3-872c-c92aaf212319)
 
 Tendo tudo isso é hora de transformar os dados (sua base) em informação. É preciso saber as perguntas de negócios e partir para os cálculos, no caso deste workbook estamos utilizando uma tabela dinâmica.
+
+Com os calculos feitos, baseados nas perguntas de negócios, é hora de criar o dashboard e organiza-lo usando os calculos e os assets.
+
+![image](https://github.com/user-attachments/assets/58847f2c-0d30-4412-b1d7-ccc2fb0d6a33)
